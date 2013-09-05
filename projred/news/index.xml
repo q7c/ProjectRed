@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+ 	<channel>
+		<title>&lt;&lt; News &gt;&gt; | &lt;&lt;Project:RƎd&gt;&gt;</title>
+		<link>http://mrtjp.github.io/ProjectRed/news/index.html</link>
+		<description></description>
+		<language>en</language>
+		<lastBuildDate>Thu, 05 Sep 2013 12:02:29 -0400</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>Sandvox 2.8.2</generator>
+		<item>
+			<title>Public buids no longer available</title>
+			<link>http://mrtjp.github.io/ProjectRed/news/public-buids-no-longer.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;Ever since pre-releases for version 4.0.0, there have been tons of bug reports for stupid things that dont matter instead of actual bugs that we are interested in fixing. Dont get me wrong, they were indeed useful, but after about 100 times of reporting the same bug, it gets old. Therefore, u&lt;span style="font-size: 1em;"&gt;ntil ProjectRed is stable enough for a full release, there will be no more jar &lt;/span&gt;downloads&lt;span style="font-size: 1em;"&gt; available for public use.  This means that unless you are developing for PR, you cannot use it. &lt;/span&gt;&lt;span style="font-size: 1em;"&gt;Keep in mind that users may NOT distribute their own builds, as it states in the license.&lt;/span&gt;
+					&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 1em;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 1em;"&gt;As for progress, v4 will be releases upon completion of the gates. Here is a full list of gates that remain:&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="color: rgb(0, 0, 0);"&gt;Null cell&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color: rgb(0, 0, 0);"&gt;Invert cell&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color: rgb(0, 0, 0);"&gt;Non invert cell&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color: rgb(0, 0, 0);"&gt;Bus Transceiver&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color: rgb(0, 0, 0);"&gt;unnamed CB gate&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color: rgb(0, 0, 0);"&gt;Comparator&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sat, 31 Aug 2013 19:36:45 -0400</pubDate>
+			<guid>http://mrtjp.github.io/ProjectRed/news/public-buids-no-longer.html</guid>
+            
+			
+		</item>
+		<item>
+			<title>Progress update</title>
+			<link>http://mrtjp.github.io/ProjectRed/news/progress-update.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-family: Helvetica; font-size: 16px; font-style: normal; font-variant: normal;"&gt;We are nearly done with re-writing the gates, well over half are completed already.  After that, another pre-release will be coming up.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Tue, 27 Aug 2013 08:27:47 -0400</pubDate>
+			<guid>http://mrtjp.github.io/ProjectRed/news/progress-update.html</guid>
+            
+			
+		</item>
+		<item>
+			<title>Development Progres</title>
+			<link>http://mrtjp.github.io/ProjectRed/news/development-progres.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 16px; font-family: Helvetica;"&gt;Development is coming along. Wires are almost done, all thats left is fixing a few textures on framed wires, and gates will be all thats left.  Shouldnt take a terribly long time now.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 16 Aug 2013 15:34:16 -0400</pubDate>
+			<guid>http://mrtjp.github.io/ProjectRed/news/development-progres.html</guid>
+            
+			
+		</item>
+ 	</channel>
+</rss>
